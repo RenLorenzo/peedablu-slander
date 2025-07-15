@@ -178,3 +178,23 @@ button:hover::before {
     margin-top: 53px;
 }
 
+.alex {
+  max-width: 800px;
+  margin: 100px auto 60px auto;
+
+  padding: 40px;
+  padding-left: 10px;
+  background-color: #111111;
+  border-top: 1px solid rgba(200, 200, 200, 0.4);
+  color: #444;
+  font-size: 14px;
+  line-height: 1.8;
+  text-align: justify;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  font-family: "Segoe UI", sans-serif;
+}
+
+.disclaimer-text {
+  margin: 0;
+}
